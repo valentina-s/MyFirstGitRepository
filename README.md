@@ -2,4 +2,4 @@
 
 This project contains my dissertation.
 
-First step to success!
+First step to success! Adding Valentina's ideas to the dissertation.
